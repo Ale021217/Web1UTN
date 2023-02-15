@@ -1,0 +1,18 @@
+#colFechaNac{
+    background-color: darkgreen;
+}
+*{color: darkgoldenrod;
+}
+td{
+    font-family: 'Times New Roman', Times, serif;
+}
+.tabla1{
+    color:blue;
+    background-color: brown;
+    border-style:double;
+}
+.tabla2{
+    color: blueviolet;
+    background-color:coral ;
+    border-style: groove;
+}
