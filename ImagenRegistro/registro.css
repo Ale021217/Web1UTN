@@ -1,0 +1,30 @@
+.caja1 {
+  background-color: #e6e6e6;
+  width: 250px;
+  left: 250px;
+  height: 300px;
+  padding: 70px;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+.caja2 {
+  background-color:#78788c;
+  width: 280px;
+  height: 50;
+  padding: 10px;
+  border-radius: 6px;
+  color: white;
+  position: absolute;
+  left: 45%;
+  right: 50%;
+  top: 65%; 
+}
+.caja2-::placeholder{
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 300;  
+}
+
+.botton {
+ float: right;
+}

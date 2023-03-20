@@ -1,0 +1,38 @@
+
+.caja1{
+
+    height: 50px;
+    width: 1320px;
+    padding: 10px;
+    color: black;
+    background-color: rgb(226, 225, 225);
+
+
+
+}
+
+
+.caja2{
+    background-color:  #ffffff;
+    height: 300px;
+    width: 720px;
+    padding: 10px;
+
+}
+
+.footer{
+    text-align: center;
+    background-color: #e5306e;
+    height: 120px;
+    width: 720px;
+    padding: 10px;
+}
+
+.formulario{
+background-color: aqua;
+float: right;
+width: 433px;
+padding: 6%;
+
+
+}
